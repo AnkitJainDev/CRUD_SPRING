@@ -1,0 +1,20 @@
+{
+	"EMPLOYEE_ID" : 1,
+	"EMPLOYEE_NAME" : "ANKITJAIN",
+	"EMPLOYEE_COUNT_LIST":[
+		{
+		"employeeCountId":11
+		},
+		{
+		"employeeCountId":12
+		}
+	],
+	"EMPLOYEE_DEPT_LIST":[
+		{
+		"employeeDeptId":11
+		},
+		{
+		"employeeDeptId":12
+		}
+	]
+}
